@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zheng Zhang"
-  avatar           : "zhzh.JPG"
+  avatar           : "/images/zhzh.jpg"
   bio              : "University of Science and Technology of China"
   location         : "HeFei, China"
   employer         :
